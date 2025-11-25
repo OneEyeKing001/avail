@@ -1,1 +1,1 @@
-# avail
+# availInitialize Avail light node config
