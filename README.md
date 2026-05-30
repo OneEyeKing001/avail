@@ -3,3 +3,4 @@ Add block submission handler
 Configure validator parameters
 Add monitoring dashboard
 Fix sync issues
+Update chain spec
