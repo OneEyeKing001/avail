@@ -6,3 +6,4 @@ Fix sync issues
 Update chain spec
 Add automated restart script
 Improve logging format
+Performance tuning notes
